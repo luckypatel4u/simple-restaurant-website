@@ -1,0 +1,49 @@
+.h-font{
+    font-family: 'Merienda', cursive;
+}
+.navbar-brand{
+    color: darkgoldenrod;
+}
+.nav-item{
+    padding-right: 3.7rem;
+}
+.nav-link:hover{
+    color: darkgoldenrod;
+}
+.btn1{
+    border: 1px solid darkgoldenrod;
+    border-radius: 5px;
+    transition: color 2s;
+}
+.btn1:hover{
+    border: 1px solid darkgoldenrod;
+    background: darkgoldenrod;
+}
+ i {
+  color: darkgoldenrod;
+}
+.row1{
+  margin-top: 3rem;
+}
+.same{
+  margin-top: 3rem;
+}
+.same2{
+  margin-top: 4rem;
+}
+.imgg{
+  transition: all 0.8s linear;
+  cursor: pointer;
+}
+.imgg:hover{
+  transform: scale(0.9);
+}
+h2 span{
+  color: darkgoldenrod;
+}
+.row2{
+  margin-left: 16rem;
+}
+h6 span{
+  color: darkgoldenrod;
+}
